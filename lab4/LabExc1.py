@@ -1,3 +1,10 @@
+"""
+Develop a program called Lab4Exc1 to achieve the following operations:
+• Display all numbers from 1 to 10
+• Display the square roots of each number
+• Display the exponents of each number
+• Show all displays in a tabular formatimport math
+"""
 import math
 
 i = 1
